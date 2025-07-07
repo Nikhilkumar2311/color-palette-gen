@@ -1,12 +1,12 @@
 {
   "name": "color-palette-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate random color palettes, check contrast (WCAG), and map colors for Tailwind CSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["color", "palette", "generator", "contrast", "wcag", "tailwind", "css"],
   "author": "https://github.com/Nikhilkumar2311",
   "license": "ISC",
   "type": "commonjs"
